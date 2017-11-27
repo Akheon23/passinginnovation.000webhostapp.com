@@ -1,0 +1,753 @@
+body {
+    padding-top: 0px;
+    height: 4000px;
+  }
+  #begin {
+    position: fixed;
+    top: -40px;
+    height: 240px;
+    width: 1600px;
+    background-color: white;
+    z-index: 10;
+
+  }
+  #navbarheader {
+      background: white;
+  }
+  #navbarinverse {
+    position: absolute;
+    top: 25px;
+    width: 1350px;
+
+  }
+#navbarclass {
+    position: absolute;
+    top: 0px;
+}
+#navbarclassimg1 {
+    position: absolute;
+    top: 70px;
+   
+}
+#navbarp1 {
+    position: absolute;
+    top: 155px;
+    width: 1560px;
+    height: 70px;
+    background-color: #696969;
+    opacity: 0.1;
+}
+#navbar {
+    position: absolute;
+    top: 145px;
+    height: 60px;
+    color: #000000;
+}
+#navbarp2 {
+     position: absolute;
+     top: 80px;
+     left: 0px;
+     width: 1350px;
+     height: 8px;
+     border: 3px solid black;
+     opacity: 0.4;
+ }
+ #office365 {
+     position: absolute;
+     top: -210px;
+ }
+ #div1 {
+     position: absolute;
+     top: 500px;
+     height: 100px;
+     border: 1px solid red;
+
+ }
+ #id1 {
+    position:absolute;
+    top: 1600px;
+    left: 5px;
+    height: 600px;
+    width: 1560px;
+    }
+    #id1background {
+        position: absolute;
+        top: 0px;
+        left: 7px;
+    }
+    
+    #button1id1 {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    background: none;
+    }
+    #buttonid1img1 {  
+    height: 110px;
+    width: 200px;
+    opacity: 0.6;
+    padding: 10px;
+    border: 4px solid #A5A0A0;
+    background: none;
+    }
+    #button2id1 {
+    position: absolute;
+    top: 10px;
+    left: 250px;
+    background: none;
+    }
+    #buttonid1img2{
+    height: 110px;
+    width: 230px;
+    opacity: 0.6;
+    padding: 10px;
+    border: 4px solid #A5A0A0;
+    background: none;
+    }
+    #button3id1 {
+    position: absolute;
+    top: 10px;
+    left: 500px;
+    background: none;
+    }
+    #buttonid1img3 {
+    height: 110px;
+    width: 230px;
+    opacity: 0.6;
+    padding: 10px;
+    border: 4px solid #A5A0A0;
+    background: none;
+    }
+    #p1id1 {
+    position:absolute;
+    top: 150px;
+    left: 50px;
+    width: 1000px;
+    font-size: 70px;
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: 'Roboto"', sans-serif;
+    color: #FFFFFF;
+    }
+    #id1div1 {
+        position: absolute;
+        top: 250px;
+        left: 50px;
+        height: 300px;
+        width: 500px;
+    }
+    #id1label1 { 
+    position:absolute;
+    top: 0px;
+    left: 5px;
+    width: 300px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: 'Roboto"', sans-serif;
+    color: #FFFFFF;
+    }
+    #id1input1 {
+       position: absolute;
+       top: 0px;
+       left: 225px;   
+    }
+    #id1app1{
+        position: absolute;
+        top: 250px;
+        left: 600px;
+        height: 350px;
+        width: 500px;
+    }
+    #id1app1img1 {
+        position: absolute;
+        top: 5px;
+        left: 5px;   
+        border: 2px solid white;
+        
+    }
+    #id1app1img1tooltip {
+        position: absolute;
+        top: 9px;
+        left: 56px;    
+       
+    }
+    
+    #id1app1img1tooltipdiv {
+        position: absolute;
+        top: 9px;
+        left: 56px;
+     
+    }
+    
+    #id1app1img2 {
+           position: absolute;
+        top: 5px;
+        left: 82px;   
+        border: 2px solid white;
+    
+    }
+    
+    #id1app1img2tooltip {
+        position: absolute;
+        top: 9px;
+        left: 132px;  
+      
+    }
+    #id1app1img3 {
+           position: absolute;
+        top: 5px;
+        left: 160px; 
+        border: 2px solid white;
+        z-index: -1;
+    }
+    #id1app1img3tooltip {
+        position: absolute;
+        top: 9px;
+        left: 212px;     
+        z-index: -1;
+    }
+    #id1app1img4 {
+           position: absolute;
+        top: 5px;
+        left: 240px;   
+        border: 2px solid white;
+        z-index: -1;
+    }
+    #id1app1img4tooltip {
+        position: absolute;
+        top: 9px;
+        left: 292px;   
+          z-index: -1;
+    }
+    #id1app1img5 {
+        position: absolute;
+        top: 5px;
+        left: 322px;   
+        border: 2px solid white;
+          z-index: -1;
+    }
+    #id1app1img5tooltip {
+        position: absolute;
+        top: 9px;
+        left: 373px;  
+         z-index: -1;
+    }
+    #id1label2 { 
+    position:absolute;
+    top: 80px;
+    left: 0px;
+    width: 300px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: 'Roboto"', sans-serif;
+    color: #FFFFFF;
+    }
+    #id1input2{
+       position: absolute;
+       top: 100px;
+       left: 225px;  
+       background-color: red;
+    }
+    #id1app2{
+        position: absolute;
+        top: 300px;
+        left: 600px;
+        height: 350px;
+        width: 500px;
+    }
+    #id1app2img1 {
+        position: absolute;
+        top: 7px;
+        left: 7px;   
+        border: 2px solid red;
+    }
+    #id1app2img1tooltip {
+        position: absolute;
+        top: 12px;
+        left: 60px;
+       
+    }
+    #id1app2img2 {
+           position: absolute;
+        top: 7px;
+        left: 84px;   
+        border: 2px solid red;
+        
+    }
+    #id1app2img2tooltip {
+        position: absolute;
+        top: 12px;
+        left: 137px;     
+    }
+    #id1app2img3 {
+        position: absolute;
+        top: 7px;
+        left: 162px;   
+        border: 2px solid red;
+    }
+    #id1app2img3tooltip {
+        position: absolute;
+        top: 12px;
+        left: 215px;     
+    }
+    #id1app2img4 {
+        position: absolute;
+        top: 7px;
+        left: 243px;   
+        border: 2px solid red;
+    }
+    #id1app2img4tooltip {
+        position: absolute;
+        top: 12px;
+        left: 294px;     
+    }
+    #id1app2img5 {
+        position: absolute;
+        top: 7px;
+        left: 324px;  
+        border: 2px solid red;
+    }
+    #id1app2img5tooltip {
+        position: absolute;
+        top: 12px;
+        left: 374px;  
+    }
+    #id1app2img6 {
+        position: absolute;
+        top: 7px;
+        left: 403px;   
+        border: 2px solid red;
+    }
+    #id1app2img7 {
+        position: absolute;
+        top: 85px;
+        left: 8px;  
+        border: 2px solid red;
+    }
+    #id1app2img8 {
+        position: absolute;
+        top: 85px;
+        left: 85px;
+        border: 2px solid red;
+    }
+    #id1app2img8tooltip {
+        position: absolute;
+        top: 89px;
+        left: 136px;     
+    }
+    #id1app2img9 {
+        position: absolute;
+        top: 85px;
+        left: 163px;  
+        border: 2px solid red;
+    }
+    #id1app2img10 {
+        position: absolute;
+        top: 85px;
+        left: 243px;   
+        border: 2px solid red;
+    }
+    #id1app2img10tooltip {
+        position: absolute;
+        top: 90px;
+        left: 294px;     
+    }
+    #id1app2img11 {
+        position: absolute;
+        top: 86px;
+        left: 324px;   
+        border: 3px solid red;
+    }
+    #id1app2img12 {
+        position: absolute;
+        top: 85px;
+        left: 403px;   
+        border: 2px solid red;
+    }
+    #id1app2img12tooltip {
+        position: absolute;
+        top: 89px;
+        left: 453px;     
+    }
+    #id1label3 { 
+        position:absolute;
+        top: 160px;
+        left: 0px;
+        width: 300px;
+        font-size: 30px;
+        text-align: left;
+        font-weight: 300;
+        letter-spacing: 0px;
+        font-family: 'Roboto"', sans-serif;
+        color: #FFFFFF;
+    }
+    #id1input3 {
+       position: absolute;
+       top: 175px;
+       left: 225px;   
+    }
+    #id1app3{
+        position: absolute;
+        top: 300px;
+        left: 600px;
+        height: 250px;
+        width: 500px;
+    }
+    #id1app3img1 {
+        position: absolute;
+        top: 9px;
+        left: 9px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img1tooltip {
+        position: absolute;
+        top: 13px;
+        left: 59px;     
+    }
+    #id1app3img2 {
+           position: absolute;
+        top: 9px;
+        left: 86px;   
+        border: 2px solid orangered;
+    }
+    
+    #id1app3img2tooltip {
+        position: absolute;
+        top: 14px;
+        left: 135px;     
+    }
+    #id1app3img3 {
+        position: absolute;
+        top: 9px;
+        left: 164px; 
+        border: 2px solid orangered;
+    }
+    #id1app3img3tooltip {
+        position: absolute;
+        top: 14px;
+        left: 215px;     
+    }
+    #id1app3img4 {
+        position: absolute;
+        top: 9px;
+        left: 246px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img4tooltip {
+        position: absolute;
+        top: 14px;
+        left: 295px;     
+    }
+    #id1app3img5 {
+        position: absolute;
+        top: 9px;
+        left: 326px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img5tooltip {
+        position: absolute;
+        top: 14px;
+        left: 375px;  
+    }
+    #id1app3img6 {
+        position: absolute;
+        top: 9px;
+        left: 405px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img7 {
+        position: absolute;
+        top: 87px;
+        left: 10px;  
+        border: 2px solid orangered;
+    }
+    #id1app3img8 {
+        position: absolute;
+        top: 87px;
+        left: 88px;
+        border: 2px solid orangered;
+    }
+    #id1app3img8tooltip {
+        position: absolute;
+        top: 93px;
+        left: 139px;     
+    }
+    #id1app3img9 {
+        position: absolute;
+        top: 87px;
+        left: 165px;  
+        border: 2px solid orangered;
+    }
+    #id1app3img10 {
+        position: absolute;
+        top: 87px;
+        left: 245px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img10tooltip {
+        position: absolute;
+        top: 93px;
+        left: 297px;     
+    }
+    #id1app3img11 {
+        position: absolute;
+        top: 87px;
+        left: 325px;   
+        border: 4px solid orangered;
+    }
+    #id1app3img12 {
+        position: absolute;
+        top: 87px;
+        left: 405px;   
+        border: 2px solid orangered;
+    }
+    #id1app3img12tooltip {
+        position: absolute;
+        top: 93px;
+        left: 457px;     
+    }
+    #id1app3img13 {
+        position: absolute;
+        top: 165px;
+        left: 11px;   
+        border: 2px solid orangered;
+    }
+
+
+
+
+    #id11 {
+        position:absolute;
+        top: 1600px;
+        left: 35px;
+        height: 740px;
+        width: 1510px;
+    }
+    #id11menu {
+        position: absolute;
+        left: 5px;
+        width: 1470px;
+        height: 210px;
+        border-bottom: 10px solid #696969;
+        z-index: -1;
+          
+    }
+        #id11menubutton1 {
+            position: absolute;
+            top: 10px;
+            left: 0px;
+            width: 387px;
+            height: 200px;
+            border-bottom: 10px solid rgb(114, 243, 63);
+            
+        }  
+        #id11menubutton2 {
+            position: absolute;
+            top: 10px;
+            left: 390px;
+            width: 370px;
+            height: 200px;
+            border-bottom: 10px solid #696969;
+            z-index: -1;
+        }  
+        
+        #id11menubutton3 {
+            position: absolute;
+            top: 10px;
+            left: 770px;
+            width: 390px;
+            height: 200px;
+            border-bottom: 10px solid #696969;
+            z-index: -1;
+        }
+        #id11menubutton4 {
+            position: absolute;
+            top: 10px;
+            left: 1170px;
+            width: 330px;
+            height: 200px;
+            border-bottom: 10px solid #696969;
+            z-index: -1;
+        }
+        #id11ul1 {
+            position: absolute;
+            top: 209px;
+            left: 5px;
+            width: 1500px;
+            color: #000000;
+            font-size: 15px;
+            font-weight: 700;
+            font-family: 'Roboto"', sans-serif;
+            text-decoration: underline;
+        }
+        
+        #id11div1 {
+            position: absolute;
+            top: 252px;
+            left: 0px;
+            height: 600px;
+            width: 1500px;
+        }
+        #id11div1a {
+            position: absolute;
+            top: 20px;
+            left: 30px;
+            height: 450px;
+            width: 620px;
+            background: #000000;
+            opacity: 0.9;
+        }
+        #id11p1 {
+            position:absolute;
+            top: 20px;
+            left: 30px;
+            color: #FFFFFF;
+            font-size: 45px;
+            text-align: left;
+            font-weight: 300;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11p2 {
+            position:absolute;
+            top: 100px;
+            left: 30px;
+            width: 510px;
+            color: #FFFFFF;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div2 {
+            position: absolute;
+            top: 200px;
+            left: 30px;
+            height: 85px;
+            width: 540px;
+            border: 1px solid #696969;
+            background: #FFFFFF;
+        }
+        #id11p3 {
+            position:absolute;
+            top: 0px;
+            left: 10px;
+            width: 600px;   
+            color: #696969;
+            font-size: 40px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11p4 {
+            position:absolute;
+            top: 20px;
+            left: 120px;
+            width: 600px;
+            color: #696969;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11p5 {   
+            position: absolute;
+            top: 50px;
+            left: 15px;
+            width: 600px;
+            color: #696969;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div2button1 {
+            position: absolute;
+            top: 25px;
+            left: 270px;
+        }
+        #id11div3 {
+            position: absolute;
+            top: 280px;
+            left: 30px;
+            height: 85px;
+            width: 540px;
+            border: 1px solid #696969;
+            background: #FFFFFF;
+        }
+        #id11div3p1 {
+            position:absolute;
+            top: 0px;
+            left: 10px;
+            width: 600px;   
+            color: #696969;
+            font-size: 40px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div3p2 {
+            position:absolute;
+            top: 50px;
+            left: 10px;
+            width: 600px;
+            color: #696969;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div3button1 {
+            position: absolute;
+            top: 25px;
+            left: 230px;
+        }
+        #id11div1button1 {
+            position:absolute;
+            top: 380px;
+            left: 30px;
+            width: 130px;
+            height: 45px;
+            color: #FFFFFF;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            border: 2px solid #FFFFFF;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div1button1img1 {
+            position: absolute;
+            top: 394px;
+            left: 130px;
+        }
+        #id11div1button2 {
+            position: absolute;
+            top: 530px;
+            left: 325px;
+            width: 285px;
+            height: 47px;
+            color: #FFFFFF;
+            font-size: 19px;
+            text-align: left;
+            font-weight: 600;
+            letter-spacing: 0px;
+            border: 2px solid #FFFFFF;
+            font-family: 'Roboto"', sans-serif;
+        }
+        #id11div1button2img1 {
+            position: absolute;
+            top: 542px;
+            left: 580px;
+        }
